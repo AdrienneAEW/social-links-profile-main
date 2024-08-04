@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Page](https://github.com/AdrienneAEW/social-links-profile-main)
-- Live Site URL: [Social Links Profile](https://your-live-site-url.com)
+- Live Site URL: [Social Links Profile](https://adrienneaew.github.io/social-links-profile-main/)
 
 ## My process
 My process was to building this profile strictly using only HTML and CSS. No css grid or flexbox just straight HTML an CSS. 
@@ -60,9 +60,8 @@ Tools I use constantly when working with CSS
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [AdrienneAEW](https://www.adrienneaew.me)
+- Frontend Mentor - [@Adrienne](https://www.frontendmentor.io/profile/AdrienneAEW)
 
 ## Acknowledgments
 
