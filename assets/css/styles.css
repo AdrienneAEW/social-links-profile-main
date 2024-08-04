@@ -58,6 +58,7 @@ a {
   padding: 1.25rem;
   margin-bottom: 1rem;
   border-radius: 8px;
+  transition: all 0.7s ease-in-out;
 }
 .social-card a:last-of-type {
   margin-bottom: 0;
